@@ -1,22 +1,40 @@
 {
-	"movies": [
+	"work experience": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Creative Brand Consultant",
+			"Company": "Self-employed",
+			"Years": "2021-2023",
+			"Clients": "Kin, "
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Director of Creative, Brand + Marketing",
+			"Company": "Eclipse Foods",
+			"Years": "2020-2021",
+			"Clients": "Eclipse Foods"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Creative Director",
+			"Company": "EVB (Evolution Bureau)",
+			"Years": "2018-2020",
+			"Clients": "Jameson, Bed Bath & Beyond, Panda Express, Defonce, Mezzetta, "
+		},
+		{
+			"Title": "Art Supervisor",
+			"Company": "Patients & Purpose (Omnicom Health Group)",
+			"Years": "2017-2018",
+			"Clients": "Astra Zeneca Immuno-oncology"
+		},
+		{
+			"Title": "Senior Art Director/Creative Lead",
+			"Company": "Carrot-Virtue (VICE Media)",
+			"Years": "2015-2017",
+			"Clients": "Unilever Ice Cream Portfolio (Magnum, Popsicle, Good Humor), Suave, Derek Lam"
+		},
+		{
+			"Title": "Art Director",
+			"Company": "BBDO Worldwide",
+			"Years": "2012-2015",
+			"Clients": "Snickers, FedEx, HP, MLB, Lowe's"
 		}
 	]
 }
