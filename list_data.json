@@ -1,40 +1,46 @@
 {
 	"work experience": [
 		{
-			"Title": "Creative Brand Consultant",
+			"Title": "Creative/Brand Consultant",
 			"Company": "Self-employed",
 			"Years": "2021-2023",
-			"Clients": "Kin, "
+			"Location": "The Internet, EVERYWHERE",
+			"Go-to Lunch Spot": "EA Cafe"
 		},
 		{
 			"Title": "Director of Creative, Brand + Marketing",
 			"Company": "Eclipse Foods",
 			"Years": "2020-2021",
-			"Clients": "Eclipse Foods"
+			"Location": "Oakland, CA",
+			"Go-to Lunch Spot": "Farmhouse Thai"
 		},
 		{
 			"Title": "Creative Director",
 			"Company": "EVB (Evolution Bureau)",
 			"Years": "2018-2020",
-			"Clients": "Jameson, Bed Bath & Beyond, Panda Express, Defonce, Mezzetta, "
+			"Location": "Oakland, CA",
+			"Go-to Lunch Spot": "Aburaya"
 		},
 		{
 			"Title": "Art Supervisor",
 			"Company": "Patients & Purpose (Omnicom Health Group)",
 			"Years": "2017-2018",
-			"Clients": "Astra Zeneca Immuno-oncology"
+			"Location": "New York, NY",
+			"Go-to Lunch Spot": "McDonald's"
 		},
 		{
 			"Title": "Senior Art Director/Creative Lead",
 			"Company": "Carrot-Virtue (VICE Media)",
 			"Years": "2015-2017",
-			"Clients": "Unilever Ice Cream Portfolio (Magnum, Popsicle, Good Humor), Suave, Derek Lam"
+			"Location": "Brooklyn, NY",
+			"Go-to Lunch Spot": "Juliana's Pizza"
 		},
 		{
 			"Title": "Art Director",
 			"Company": "BBDO Worldwide",
 			"Years": "2012-2015",
-			"Clients": "Snickers, FedEx, HP, MLB, Lowe's"
+			"Location": "New York, NY",
+			"Go-to Lunch Spot": "Halal Guys"
 		}
 	]
 }
